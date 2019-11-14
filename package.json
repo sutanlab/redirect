@@ -4,6 +4,7 @@
   "description": "This repository only contains my redirect links",
   "private": false,
   "homepage": "/go",
+  "license": "MIT",
   "dependencies": {
     "react": "16.9.0",
     "react-dom": "16.9.0",
