@@ -23,5 +23,10 @@
         "id": "vuetask",
         "name": "Vuetask",
         "url": "https://vuetask.sutanlab.id"
+    },
+    {
+        "id": "kampus-api",
+        "name": "Kampus API",
+        "url": "https://kampus-api.sutanlab.id"
     }
 ]
