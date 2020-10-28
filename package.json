@@ -35,7 +35,7 @@
   },
   "devDependencies": {
     "push-dir": "0.4.1",
-    "react-scripts": "3.1.1",
+    "react-scripts": "3.4.4",
     "react-snapshot": "^1.3.0"
   }
 }
